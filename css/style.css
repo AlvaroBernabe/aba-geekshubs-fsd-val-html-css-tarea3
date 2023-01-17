@@ -1,0 +1,16 @@
+h1 {
+    font-size: larger;
+}
+body {
+    background-color: rgb(86, 146, 97);
+    font-style:italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+em {
+    font-size: large;
+    color: rgb(7, 88, 123);
+}
+strong {
+color: blueviolet;
+}
