@@ -1,16 +1,18 @@
-title {
-    color: rgb(197, 17, 17);
-}
-
 body {
-    background-color: rgb(254, 253, 211);
+    background-color: rgb(250, 228, 195);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: large;
-    color: rgb(4, 4, 10);
+    color: rgb(26, 25, 25);
 }
 b {
     color: rgb(106, 133, 136);
 }
 strong {
     color: rgb(48, 101, 110);
+}
+h2 {
+    color: rgb(36, 138, 182);
+}
+h1 {
+    background-color: rgb(199, 160, 50);
 }
